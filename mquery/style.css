@@ -1,0 +1,19 @@
+*{
+	  margin:0px;
+	  padding:0px;
+	  box-sizing:border-box;
+	  color:#1B1A1B;
+}
+
+
+img{
+	border:1px solid black;
+	min-height:50%;
+	width:100%;
+	
+}
+
+pinky{
+	text-align:right;
+	
+}
